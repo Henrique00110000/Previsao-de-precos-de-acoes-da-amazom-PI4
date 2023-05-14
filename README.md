@@ -1,7 +1,5 @@
 # Previsao-de-precos-de-acoes-da-amazom-PI4
 
-Claro, aqui está uma versão melhorada do seu README:
-
 Previsão de Preços de Ações da Amazon
 Este projeto utiliza um modelo LSTM para prever preços futuros das ações da Amazon. Os dados históricos de preços são coletados da Yahoo Finance usando o pandas_datareader, pré-processados com o MinMaxScaler do Scikit-learn e treinados em um modelo LSTM usando o Sequential do Keras. As previsões são visualizadas usando o plotly.graph_objects e exibidas em um aplicativo da web criado com o framework Dash.
 
@@ -26,7 +24,7 @@ scikit-learn
 tensorflow
 yfinance
 Créditos
-Este projeto foi criado por [Seu Nome Aqui]. Ele foi inspirado no projeto Stock Price Prediction with LSTM no Kaggle.
+Este projeto foi criado por Henrique. Ele foi inspirado no projeto Stock Price Prediction with LSTM no Kaggle.
 
 Licença
 Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para obter mais informações.
